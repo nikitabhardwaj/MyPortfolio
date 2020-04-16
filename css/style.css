@@ -1,0 +1,126 @@
+/******************************   TAG SELECTOR   *****************************/
+body{
+  background-color:#ecfbfc;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+#intro-section{
+  background-color: #1b262c;
+}
+.container-fluid{
+  background-color: #1b262c;
+  padding: 5% 5%;
+}
+h1{
+  font-size: 3rem;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+
+
+}
+
+h2{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.8625em;
+
+  }
+  a{
+    color: inherit;
+  background-color:#1b262c;
+  text-decoration: none;
+
+    }
+    a:hover{
+      color: white;
+    }
+/*
+
+h3{
+color: #11999E;
+
+}
+
+p{
+  color: #40514E;
+  l
+*/
+
+  /*
+*/
+/***************************************   CLASS SELECTOR   *****************/
+
+/*.top-container{
+  background-color:#bfe5e8;
+  position: relative;
+  padding-top: 300px;
+  }
+.top-cloud{
+  display: block;
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+.bottom-cloud{
+  display: block;
+  position: absolute;
+  top: 500px;
+  bottom: 300px;
+  left:8%;
+}
+.mountain{
+   display:block;
+   margin-top: 100px;
+   margin-left:450px;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+    text-align: left;
+
+}
+.left-skill-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.right-skill-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-div{
+background-color: #66BFBF;
+ margin-top:50px;
+  padding:20px 0 20px;
+
+
+}
+.copyright-para{
+  color: #EAF6F6;
+}
+
+
+.contact-button {
+font-family: arial;
+color: #FFFDFC !important;
+font-size: 18px;
+text-shadow: 1px 1px 0px #7CACDE;
+box-shadow: 1px 1px 1px #6666BB;
+padding: 10px 25px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+background: #6666BB;
+background: linear-gradient(top,  #66BFBF,  #18B0B0);
+background: -ms-linear-gradient(top,  #66BFBF,  #18B0B0);
+background: -webkit-gradient(linear, left top, left bottom, from(#66BFBF), to(#18B0B0));
+background: -moz-linear-gradient(top,  #66BFBF,  #18B0B0);
+}
+.contact-button:hover {
+color: #1B6E52 !important;
+background: #468CCF;
+background: linear-gradient(top,  #A3F7BF,  #75DAAD);
+background: -ms-linear-gradient(top,  #A3F7BF,  #75DAAD);
+background: -webkit-gradient(linear, left top, left bottom, from(#A3F7BF), to(#75DAAD));
+background: -moz-linear-gradient(top,  #A3F7BF,  #75DAAD);
+}   */
